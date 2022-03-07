@@ -1,0 +1,7 @@
+Passos para fazer um quiz em javascript;
+
+1. Quando clicar no botao de start, mostrar o modal de instruções do jogo.
+    1. Se Clicar no botão de exit => fechar o modal.
+    2. Se apertar o botão de continuar, fechar o modal de instruções e abrir o modal de perguntas. 
+2. Modal de perguntas:
+    1. Mostrar todas informções da tela de perguntas dinâmicamente.
